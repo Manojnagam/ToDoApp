@@ -1,19 +1,16 @@
-# ToDoApp
+# my_to_do_app
 
-To-Do App
-A simple and intuitive To-Do App built with Flutter. This app allows you to add and remove tasks, making it easy to keep track of your daily tasks and stay organized.
+A new Flutter project.
 
+## Getting Started
 
-Features:
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-->Add Tasks: Input your tasks through the text field and press Enter to add them to your to-do list.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-->Remove Tasks: Swipe left on a task or use the delete icon to remove completed or unwanted tasks.
-
-->User-Friendly Interface: The app provides a clean and user-friendly interface for a seamless to-do list management experience.
-
-
-
-
-<img width="960" alt="1" src="https://github.com/Manojnagam/ToDoApp/assets/77600103/0301ff69-e44c-42c5-9b43-59c01d58d560">
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
